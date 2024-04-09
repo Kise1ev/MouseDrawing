@@ -1,5 +1,5 @@
 <h1>📝 Description</h1>
-<h3>The program is a simple graphics application that allows the user to draw lines on the screen with the mouse. It creates a window with a white background in which the user can press the left mouse button, clamp it and drag to draw lines. When the user releases the mouse button, the current line is saved in the vector and the user can start drawing a new line. All drawn lines are displayed on the screen using device context (HDC). The goal of the program is to provide the user with a simple and intuitive way to draw on the screen with the mouse.</h3>
+<h3>This program is a simple graphics application that allows the user to draw lines on the screen with the mouse. It creates a window with a white background in which the user can press the left mouse button, clamp it and drag to draw lines. When the user releases the mouse button, the current line is saved in the vector and the user can start drawing a new line. All drawn lines are displayed on the screen using device context (HDC). The goal of the program is to provide the user with a simple and intuitive way to draw on the screen with the mouse.</h3>
 
 <h1>🔨 Framework</h1>
 <p>
